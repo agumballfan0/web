@@ -1,0 +1,11 @@
+body {
+font-family: "Tiny5", sans-serif;
+
+}
+
+.mi-video {
+    width: 70%;   
+    max-width: 900px;
+    height: auto;
+    border-radius: 15px; 
+}
